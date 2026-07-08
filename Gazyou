@@ -1,0 +1,54 @@
+# GAZ YOU 🛍️
+
+Bienvenue sur **GAZ YOU**, une boutique en ligne moderne permettant de commander facilement via WhatsApp.
+
+## 🚀 Fonctionnalités
+
+- Catalogue de produits
+- Bouton "Commander sur WhatsApp"
+- Design responsive (mobile et ordinateur)
+- Interface moderne
+- Chargement rapide
+
+## 📦 Produits
+
+### TK
+- 💶 50 € sur place
+- 🚚 60 € en livraison
+
+### 1BBN
+- 💶 20 € sur place
+- 🚚 30 € en livraison
+
+## 🛠️ Technologies
+
+- React
+- Vite
+- CSS
+- JavaScript
+
+## 📱 Commande
+
+Toutes les commandes sont effectuées directement via WhatsApp.
+
+## 🚀 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## 📂 Structure
+
+```
+src/
+components/
+assets/
+public/
+```
+
+## 📄 Licence
+
+Projet créé pour **GAZ YOU**.
+
+© 2026 GAZ YOU - Tous droits réservés.
